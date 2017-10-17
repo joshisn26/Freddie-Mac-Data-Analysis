@@ -2,7 +2,7 @@
 
 Part 1: Data wrangling
 Data Download and pre-processing:
-Your first challenge is to programmatically download the data from https://freddiemac.embs.com/FLoan/Data/download.php by getting past the login page using Python.
+Programmatically download the data from https://freddiemac.embs.com/FLoan/Data/download.php by getting past the login page using Python.
 
 Exploratory Data analysis:
 • Write a Jupyter notebook using Python to graphically represent different summaries of data. Summarize your findings in this notebook.
@@ -48,7 +48,7 @@ o Financial crisis (https://www.stlouisfed.org/financial-crisis/full-timeline )
 ▪ Run the algorithm 2 years later (i.e, 2009 for all 4 quarters)
 o Economic boom (1999, 2013) (https://www.thebalance.com/stock-market-returns-by-year-2388543 )
 
-▪ Discuss your design and results in a report. Would you recommend using this model for the next quarter? Justify
+▪ Discuss the design and results in a report. Would you recommend using this model for the next quarter? Justify
 
 o Regime change (2016) from election
 
