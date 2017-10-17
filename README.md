@@ -11,8 +11,14 @@ Exploratory Data analysis:
 
 • Look at things like interest rate trends, delinquency trends over quarters, location specific insights etc.
 
-Sharing your work:
-Parameterize the cookies and provide instructions on how the teams can create their own logins and use their cookies to run the docker image. Put your image on Docker hub and instructions in Github to recreate the docker image.
+Sharing the work:
+Run the docker image:
+docker pull joshisn/assignment3:part2
+Docker run -it joshisn/assignment3:part2 /bin/bash
+
+Change csv file quarter_input_1.csv with your credentials
+
+Python Script_part2.py
 
 Part II: Building and evaluating models.
 
